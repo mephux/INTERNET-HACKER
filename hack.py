@@ -135,10 +135,7 @@ FEDS = (
     'PETA',
     'MPAA',
     'CERN',
-    'NWA',
-		'ANONYMOUS',
-		'APT',
-		'BUSTICATI'
+    'NWA'
 )
 
 ################
